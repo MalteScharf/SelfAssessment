@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js h
-  - npm u
+  - Node.js: 👂 heard
+  - npm: 🖐️ used
   - prettier
   - MDN
   - TC39

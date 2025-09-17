@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-0&nbsp;/&nbsp;0&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/MalteScharf/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-2&nbsp;/&nbsp;6&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/MalteScharf/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-0&nbsp;/&nbsp;0&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/MalteScharf/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-2&nbsp;/&nbsp;6&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/MalteScharf/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/MalteScharf/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-0&nbsp;/&nbsp;0&nbsp;/&nbsp;736-009933?style=flat-square"></a>
+<a href="https://github.com/MalteScharf/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-2&nbsp;/&nbsp;6&nbsp;/&nbsp;736-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -32,7 +32,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `0` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `0` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `0` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `2` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `0` | `18` |
@@ -72,8 +72,104 @@ Total: you have `0` of `72` skills, `72` to be upgraded, and `0` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| `Object` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Function` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Boolean` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Number` | 🤷 unknown | ⟶  | 🖐️ used |
+| `BigInt` | 🤷 unknown | ⟶  | 🖐️ used |
+| `String` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Symbol` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Infinity` | 🤷 unknown | ⟶  | 🖐️ used |
+| `NaN` | 🤷 unknown | ⟶  | 🖐️ used |
+| `undefined` | 🤷 unknown | ⟶  | 🖐️ used |
+| `null` | 🤷 unknown | ⟶  | 🖐️ used |
+| `this` | 🤷 unknown | ⟶  | 🖐️ used |
+| `instanceof` | 🤷 unknown | ⟶  | 🖐️ used |
+| `...spread` | 🤷 unknown | ⟶  | 🖐️ used |
+| `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
+| `typeof` | 🤷 unknown | ⟶  | 🖐️ used |
+| Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
+| Generators | 🤷 unknown | ⟶  | 🖐️ used |
+| Iterators | 🤷 unknown | ⟶  | 🖐️ used |
+| Async generator | 🤷 unknown | ⟶  | 🖐️ used |
+| Async iterator | 🤷 unknown | ⟶  | 🖐️ used |
+| Chaining | 🤷 unknown | ⟶  | 🖐️ used |
+| IIFE | 🤷 unknown | ⟶  | 🖐️ used |
+| Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
+| `global` | 🤷 unknown | ⟶  | 🖐️ used |
+| `globalThis` | 🤷 unknown | ⟶  | 🖐️ used |
+| Getters and setters | 🤷 unknown | ⟶  | 🖐️ used |
+| Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
+| Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
+| Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
+| `void` | 🤷 unknown | ⟶  | 🖐️ used |
+| `yield` | 🤷 unknown | ⟶  | 🖐️ used |
+| `await` | 🤷 unknown | ⟶  | 🖐️ used |
+| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
+| Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
+| `delete` | 🤷 unknown | ⟶  | 🖐️ used |
+| `in` | 🤷 unknown | ⟶  | 👂 heard |
+| `super` | 🤷 unknown | ⟶  | 🖐️ used |
+| `eval` | 🤷 unknown | ⟶  | 🎓 known |
+| `static` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Number.parseInt` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Number.parseFloat` | 🤷 unknown | ⟶  | 🖐️ used |
+| Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
+| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
+| Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
+| Computed properties | 🤷 unknown | ⟶  | 🎓 known |
+| Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Static class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
+| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
+| `if` | 🤷 unknown | ⟶  | 🖐️ used |
+| `while` | 🤷 unknown | ⟶  | 🖐️ used |
+| `do..while` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for..in` | 🤷 unknown | ⟶  | 🎓 known |
+| `for..of` | 🤷 unknown | ⟶  | 🖐️ used |
+| `for await` | 🤷 unknown | ⟶  | 🖐️ used |
+| `throw` | 🤷 unknown | ⟶  | 🖐️ used |
+| `break` | 🤷 unknown | ⟶  | 🖐️ used |
+| `continue` | 🤷 unknown | ⟶  | 🖐️ used |
+| `import` | 🤷 unknown | ⟶  | 🖐️ used |
+| `export` | 🤷 unknown | ⟶  | 🖐️ used |
+| `try..catch` | 🤷 unknown | ⟶  | 🖐️ used |
+| `class` | 🤷 unknown | ⟶  | 🖐️ used |
+| `extends` | 🤷 unknown | ⟶  | 🖐️ used |
+| `new` | 🤷 unknown | ⟶  | 🖐️ used |
+| Arrow function | 🤷 unknown | ⟶  | 🖐️ used |
+| Async function | 🤷 unknown | ⟶  | 🖐️ used |
+| Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
+| Function expression | 🤷 unknown | ⟶  | 🖐️ used |
+| Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
+| Functional object | 🤷 unknown | ⟶  | 👂 heard |
+| `return` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Array` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Map` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Set` | 🤷 unknown | ⟶  | 🖐️ used |
+| `WeakMap` | 🤷 unknown | ⟶  | 🎓 known |
+| `WeakSet` | 🤷 unknown | ⟶  | 🎓 known |
+| Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
+| Mixins | 🤷 unknown | ⟶  | 👂 heard |
+| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
+| `Proxy` | 🤷 unknown | ⟶  | 🎓 known |
+| `RegExp` | 🤷 unknown | ⟶  | 🎓 known |
+| `Date` | 🤷 unknown | ⟶  | 🎓 known |
+| `Math` | 🤷 unknown | ⟶  | 🎓 known |
+| `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
+| `Error` | 🤷 unknown | ⟶  | 🖐️ used |
+| `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
+| `JSON` | 🤷 unknown | ⟶  | 🖐️ used |
+| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
+| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
+| `Promise` | 🤷 unknown | ⟶  | 🖐️ used |
+| `console` | 🤷 unknown | ⟶  | 🖐️ used |
+| Timers | 🤷 unknown | ⟶  | 🖐️ used |
+| V8 | 🤷 unknown | ⟶  | 🖐️ used |
+| prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `0` of `98` skills, `98` to be upgraded, and `0` above needed
+Total: you have `2` of `98` skills, `96` to be upgraded, and `1` above needed
 
 ## [Async](/Skills/Async.md)
 
